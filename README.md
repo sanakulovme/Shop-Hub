@@ -1,4 +1,4 @@
-# User Profile Management System
+# Shop Hub business System
 
 This project is a **React-based User Profile Management System** designed to allow users to manage their profiles, edit information through modals, and view their details in a clean, responsive UI.
 
@@ -19,7 +19,7 @@ This project is a **React-based User Profile Management System** designed to all
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sanakulovme/Shop-Hub.git
+   https://github.com/sanakulovme/Shop-Hub.git
    cd Shop-Hub
    ```
 
