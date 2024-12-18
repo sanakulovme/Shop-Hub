@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "category": "food",
+    "name": "Apple",
+    "price": 0.5,
+    "image": "https://via.placeholder.com/150?text=Apple"
+  },
+  {
+    "id": 2,
+    "category": "food",
+    "name": "Bread",
+    "price": 1.2,
+    "image": "https://via.placeholder.com/150?text=Bread"
+  },
+  {
+    "id": 3,
+    "category": "food",
+    "name": "Milk",
+    "price": 0.9,
+    "image": "https://via.placeholder.com/150?text=Milk"
+  },
+  {
+    "id": 4,
+    "category": "food",
+    "name": "Cheese",
+    "price": 2.5,
+    "image": "https://via.placeholder.com/150?text=Cheese"
+  },
+  {
+    "id": 5,
+    "category": "food",
+    "name": "Chicken",
+    "price": 5.0,
+    "image": "https://via.placeholder.com/150?text=Chicken"
+  },
+  {
+    "id": 6,
+    "category": "construction",
+    "name": "Cement Bag",
+    "price": 8.5,
+    "image": "https://via.placeholder.com/150?text=Cement+Bag"
+  },
+  {
+    "id": 7,
+    "category": "construction",
+    "name": "Paint Bucket",
+    "price": 12.0,
+    "image": "https://via.placeholder.com/150?text=Paint+Bucket"
+  },
+  {
+    "id": 8,
+    "category": "construction",
+    "name": "Bricks (Pack of 50)",
+    "price": 25.0,
+    "image": "https://via.placeholder.com/150?text=Bricks"
+  },
+  {
+    "id": 9,
+    "category": "construction",
+    "name": "Hammer",
+    "price": 7.5,
+    "image": "https://via.placeholder.com/150?text=Hammer"
+  },
+  {
+    "id": 10,
+    "category": "construction",
+    "name": "Saw",
+    "price": 9.5,
+    "image": "https://via.placeholder.com/150?text=Saw"
+  },
+  {
+    "id": 11,
+    "category": "electronics",
+    "name": "Smartphone",
+    "price": 699.0,
+    "image": "https://via.placeholder.com/150?text=Smartphone"
+  },
+  {
+    "id": 12,
+    "category": "electronics",
+    "name": "Laptop",
+    "price": 1299.0,
+    "image": "https://via.placeholder.com/150?text=Laptop"
+  },
+  {
+    "id": 13,
+    "category": "electronics",
+    "name": "Headphones",
+    "price": 89.0,
+    "image": "https://via.placeholder.com/150?text=Headphones"
+  },
+  {
+    "id": 14,
+    "category": "electronics",
+    "name": "Smart Watch",
+    "price": 199.0,
+    "image": "https://via.placeholder.com/150?text=Smart+Watch"
+  },
+  {
+    "id": 15,
+    "category": "electronics",
+    "name": "Bluetooth Speaker",
+    "price": 45.0,
+    "image": "https://via.placeholder.com/150?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 16,
+    "category": "food",
+    "name": "Apple",
+    "price": 0.5,
+    "image": "https://via.placeholder.com/150?text=Apple"
+  },
+  {
+    "id": 17,
+    "category": "food",
+    "name": "Bread",
+    "price": 1.2,
+    "image": "https://via.placeholder.com/150?text=Bread"
+  },
+  {
+    "id": 18,
+    "category": "food",
+    "name": "Milk",
+    "price": 0.9,
+    "image": "https://via.placeholder.com/150?text=Milk"
+  },
+  {
+    "id": 19,
+    "category": "food",
+    "name": "Cheese",
+    "price": 2.5,
+    "image": "https://via.placeholder.com/150?text=Cheese"
+  },
+  {
+    "id": 20,
+    "category": "food",
+    "name": "Chicken",
+    "price": 5.0,
+    "image": "https://via.placeholder.com/150?text=Chicken"
+  },
+  {
+    "id": 21,
+    "category": "construction",
+    "name": "Cement Bag",
+    "price": 8.5,
+    "image": "https://via.placeholder.com/150?text=Cement+Bag"
+  },
+  {
+    "id": 22,
+    "category": "construction",
+    "name": "Paint Bucket",
+    "price": 12.0,
+    "image": "https://via.placeholder.com/150?text=Paint+Bucket"
+  },
+  {
+    "id": 23,
+    "category": "construction",
+    "name": "Bricks (Pack of 50)",
+    "price": 25.0,
+    "image": "https://via.placeholder.com/150?text=Bricks"
+  },
+  {
+    "id": 24,
+    "category": "construction",
+    "name": "Hammer",
+    "price": 7.5,
+    "image": "https://via.placeholder.com/150?text=Hammer"
+  },
+  {
+    "id": 25,
+    "category": "construction",
+    "name": "Saw",
+    "price": 9.5,
+    "image": "https://via.placeholder.com/150?text=Saw"
+  },
+  {
+    "id": 26,
+    "category": "electronics",
+    "name": "Smartphone",
+    "price": 699.0,
+    "image": "https://via.placeholder.com/150?text=Smartphone"
+  },
+  {
+    "id": 27,
+    "category": "electronics",
+    "name": "Laptop",
+    "price": 1299.0,
+    "image": "https://via.placeholder.com/150?text=Laptop"
+  },
+  {
+    "id": 28,
+    "category": "electronics",
+    "name": "Headphones",
+    "price": 89.0,
+    "image": "https://via.placeholder.com/150?text=Headphones"
+  },
+  {
+    "id": 29,
+    "category": "electronics",
+    "name": "Smart Watch",
+    "price": 199.0,
+    "image": "https://via.placeholder.com/150?text=Smart+Watch"
+  },
+  {
+    "id": 30,
+    "category": "electronics",
+    "name": "Bluetooth Speaker",
+    "price": 45.0,
+    "image": "https://via.placeholder.com/150?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 31,
+    "category": "food",
+    "name": "Apple",
+    "price": 0.5,
+    "image": "https://via.placeholder.com/150?text=Apple"
+  },
+  {
+    "id": 32,
+    "category": "food",
+    "name": "Bread",
+    "price": 1.2,
+    "image": "https://via.placeholder.com/150?text=Bread"
+  },
+  {
+    "id": 33,
+    "category": "food",
+    "name": "Milk",
+    "price": 0.9,
+    "image": "https://via.placeholder.com/150?text=Milk"
+  },
+  {
+    "id": 34,
+    "category": "food",
+    "name": "Cheese",
+    "price": 2.5,
+    "image": "https://via.placeholder.com/150?text=Cheese"
+  },
+  {
+    "id": 35,
+    "category": "food",
+    "name": "Chicken",
+    "price": 5.0,
+    "image": "https://via.placeholder.com/150?text=Chicken"
+  },
+  {
+    "id": 36,
+    "category": "construction",
+    "name": "Cement Bag",
+    "price": 8.5,
+    "image": "https://via.placeholder.com/150?text=Cement+Bag"
+  },
+  {
+    "id": 37,
+    "category": "construction",
+    "name": "Paint Bucket",
+    "price": 12.0,
+    "image": "https://via.placeholder.com/150?text=Paint+Bucket"
+  },
+  {
+    "id": 38,
+    "category": "construction",
+    "name": "Bricks (Pack of 50)",
+    "price": 25.0,
+    "image": "https://via.placeholder.com/150?text=Bricks"
+  },
+  {
+    "id": 39,
+    "category": "construction",
+    "name": "Hammer",
+    "price": 7.5,
+    "image": "https://via.placeholder.com/150?text=Hammer"
+  },
+  {
+    "id": 40,
+    "category": "construction",
+    "name": "Saw",
+    "price": 9.5,
+    "image": "https://via.placeholder.com/150?text=Saw"
+  },
+  {
+    "id": 41,
+    "category": "electronics",
+    "name": "Smartphone",
+    "price": 699.0,
+    "image": "https://via.placeholder.com/150?text=Smartphone"
+  },
+  {
+    "id": 42,
+    "category": "electronics",
+    "name": "Laptop",
+    "price": 1299.0,
+    "image": "https://via.placeholder.com/150?text=Laptop"
+  },
+  {
+    "id": 43,
+    "category": "electronics",
+    "name": "Headphones",
+    "price": 89.0,
+    "image": "https://via.placeholder.com/150?text=Headphones"
+  },
+  {
+    "id": 44,
+    "category": "electronics",
+    "name": "Smart Watch",
+    "price": 199.0,
+    "image": "https://via.placeholder.com/150?text=Smart+Watch"
+  },
+  {
+    "id": 45,
+    "category": "electronics",
+    "name": "Bluetooth Speaker",
+    "price": 45.0,
+    "image": "https://via.placeholder.com/150?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 46,
+    "category": "food",
+    "name": "Apple",
+    "price": 0.5,
+    "image": "https://via.placeholder.com/150?text=Apple"
+  },
+  {
+    "id": 47,
+    "category": "food",
+    "name": "Bread",
+    "price": 1.2,
+    "image": "https://via.placeholder.com/150?text=Bread"
+  },
+  {
+    "id": 48,
+    "category": "food",
+    "name": "Milk",
+    "price": 0.9,
+    "image": "https://via.placeholder.com/150?text=Milk"
+  },
+  {
+    "id": 49,
+    "category": "food",
+    "name": "Cheese",
+    "price": 2.5,
+    "image": "https://via.placeholder.com/150?text=Cheese"
+  },
+  {
+    "id": 50,
+    "category": "food",
+    "name": "Chicken",
+    "price": 5.0,
+    "image": "https://via.placeholder.com/150?text=Chicken"
+  },
+  {
+    "id": 51,
+    "category": "construction",
+    "name": "Cement Bag",
+    "price": 8.5,
+    "image": "https://via.placeholder.com/150?text=Cement+Bag"
+  },
+  {
+    "id": 52,
+    "category": "construction",
+    "name": "Paint Bucket",
+    "price": 12.0,
+    "image": "https://via.placeholder.com/150?text=Paint+Bucket"
+  },
+  {
+    "id": 53,
+    "category": "construction",
+    "name": "Bricks (Pack of 50)",
+    "price": 25.0,
+    "image": "https://via.placeholder.com/150?text=Bricks"
+  },
+  {
+    "id": 54,
+    "category": "construction",
+    "name": "Hammer",
+    "price": 7.5,
+    "image": "https://via.placeholder.com/150?text=Hammer"
+  },
+  {
+    "id": 55,
+    "category": "construction",
+    "name": "Saw",
+    "price": 9.5,
+    "image": "https://via.placeholder.com/150?text=Saw"
+  },
+  {
+    "id": 56,
+    "category": "electronics",
+    "name": "Smartphone",
+    "price": 699.0,
+    "image": "https://via.placeholder.com/150?text=Smartphone"
+  },
+  {
+    "id": 57,
+    "category": "electronics",
+    "name": "Laptop",
+    "price": 1299.0,
+    "image": "https://via.placeholder.com/150?text=Laptop"
+  },
+  {
+    "id": 58,
+    "category": "electronics",
+    "name": "Headphones",
+    "price": 89.0,
+    "image": "https://via.placeholder.com/150?text=Headphones"
+  },
+  {
+    "id": 59,
+    "category": "electronics",
+    "name": "Smart Watch",
+    "price": 199.0,
+    "image": "https://via.placeholder.com/150?text=Smart+Watch"
+  },
+  {
+    "id": 60,
+    "category": "electronics",
+    "name": "Bluetooth Speaker",
+    "price": 45.0,
+    "image": "https://via.placeholder.com/150?text=Bluetooth+Speaker"
+  }
+]
