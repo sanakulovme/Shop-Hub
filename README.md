@@ -19,8 +19,8 @@ This project is a **React-based User Profile Management System** designed to all
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/user-profile-management.git
-   cd user-profile-management
+   git clone https://github.com/sanakulovme/Shop-Hub.git
+   cd Shop-Hub
    ```
 
 2. Install dependencies:
@@ -41,12 +41,17 @@ The app will be available at `http://localhost:3000`.
 .
 ├── src
 │   ├── components
+│   │   ├── category        # Categories (index.jsx)
 │   │   ├── Navbar.jsx      # Navigation bar
 │   │   ├── Profile.jsx     # User profile page
+│   │   ├── Slider.jsx      # Slider Component
+│   │   ├── Products.jsx    # Products page
+│   │   ├── NotFound.jsx    # Not Found page
+│   │   ├── Categories.jsx  # Categories page
 │   │   ├── Modal.jsx       # Edit profile modal
 │   │   └── Footer.jsx      # Footer component
 │   ├── data
-│   │   └── users.json      # Sample user data
+│   │   └── products.json   # Products data
 │   ├── App.jsx             # Main application entry point
 │   └── index.js            # React DOM renderer
 ├── public
